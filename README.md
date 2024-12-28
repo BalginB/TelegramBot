@@ -14,6 +14,8 @@ This interactive bot is designed to challenge your logical thinking with the cla
 1. Start the bot with `/start`.
 2. Choose to view the rules or jump straight into the game.
 3. Enter your 4-digit guesses and track your progress based on the bulls and cows hints.
+![image](https://github.com/user-attachments/assets/d8a4deb7-8554-4e9b-8c3a-71ce4ed925ea)
+
 4. Keep playing to improve your score and logical deduction skills!
 
 Get ready for a fun and mind-bending experience. Challenge yourself or invite your friends to join the excitement! 🚀
